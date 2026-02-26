@@ -1,0 +1,5 @@
+{
+  "name": "LandlordOS",
+  "description": "Production-ready property management system for landlords. Features financial control center, rent tracking, expense management, and offline-capable sync.",
+  "requestFramePermissions": []
+}
